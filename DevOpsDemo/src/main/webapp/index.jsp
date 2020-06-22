@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h2>Hello Everyone</h2>
-	<h3>DevOps has been modified........</h3>
+	<h3>DevOps has been modified again........</h3>
 	<h3>Welcome to CI-CD of Java Application in TFS 2015 </h3>
 	<h3>This is a demo for Java Project deployment to Apache Tomcat Server with TFS</h3>
 </body>
